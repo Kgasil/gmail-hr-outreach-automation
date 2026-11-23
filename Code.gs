@@ -203,30 +203,18 @@ function removeDailyTrigger() {
 function buildFirstEmail_(company, language) {
   if (normalizeLanguage_(language) === 'EN') {
     return 'Dear ' + company + ' HR team,\n\n' +
-      'I am reaching out to express my interest in currently open positions in Data, Business Intelligence, Process Improvement, Operations, Planning, or Back Office. I would also be glad to be considered for relevant opportunities that may arise in the future.\n\n' +
-      'I am currently pursuing a degree in Production Engineering, hold a technical qualification in Industrial Chemistry, and have experience in corporate environments combining business operations, process knowledge, and technical development.\n\n' +
-      'My background includes SQL, Python, Excel, and Power BI; data preparation and organization; dashboards and performance indicators; process mapping and improvement; cost analysis; operational support; and workflow automation using Google Apps Script, APIs, webhooks, n8n, and Make.\n\n' +
-      'I am looking for an opportunity where I can apply my analytical and technical skills, contribute to process efficiency, and continue developing professionally in remote or hybrid roles.\n\n' +
-      'Please find my resume attached. You can also learn more about my background and projects through my LinkedIn and GitHub profiles. Thank you for your time and consideration. I would be glad to discuss opportunities that may match my profile.\n\n' +
+    Your Text \n\n' +
       'Best regards,\n' + CONFIG.SENDER_NAME + '\n' +
       CONFIG.SENDER_LOCATION + '\n' +
       CONFIG.SENDER_PHONE + '\n' +
       CONFIG.SENDER_EMAIL + '\n' +
       'LinkedIn: ' + CONFIG.LINKEDIN_URL + '\n' +
       'GitHub: ' + CONFIG.GITHUB_URL + '\n\n' +
-      'If you prefer not to receive further messages, please reply to let me know.';
   }
   return 'Prezados(as),\n\n' +
-    'Gostaria de compartilhar meu currículo para consideração em oportunidades nas áreas de Dados, Business Intelligence, Processos, Operações, Planejamento ou Backoffice.\n\n' +
-    'Sou estudante de Engenharia de Produção, técnico em Química Industrial e tenho experiência em ambientes corporativos combinando vivência operacional, conhecimento de processos e desenvolvimento técnico.\n\n' +
-    'Minha formação e experiências incluem:\n\n' +
-    '• Dados e Business Intelligence: SQL, Python, Excel e Power BI, com atuação em tratamento, cruzamento e organização de bases, desenvolvimento de dashboards, acompanhamento de indicadores e automação de rotinas.\n\n' +
-    '• Processos e Operações: mapeamento e melhoria de fluxos, padronização de controles, organização de informações, análise de custos, suporte operacional e automação de processos.\n\n' +
-    '• Automação e Tecnologia: desenvolvimento de soluções para otimização de tarefas e integração de sistemas, utilizando Google Apps Script, APIs, webhooks e ferramentas como n8n e Make.\n\n' +
-    'Busco uma oportunidade em que possa aplicar meus conhecimentos analíticos e técnicos, contribuir para a eficiência dos processos e continuar evoluindo profissionalmente, em posições remotas ou híbridas.\n\n' +
-    'Encaminho meu currículo em anexo e compartilho também meu LinkedIn e GitHub, onde é possível conhecer melhor meu perfil e projetos.\n\n' +
-    'Agradeço pela atenção e fico à disposição para conversar sobre oportunidades alinhadas ao meu perfil.\n\n' +
-    'Atenciosamente,\n\n' +
+    Seu texto\n\n' +
+    \n\n' +
+    \n\n' +
     CONFIG.SENDER_NAME + '\n' +
     CONFIG.SENDER_LOCATION + '\n' +
     CONFIG.SENDER_PHONE + '\n' +
