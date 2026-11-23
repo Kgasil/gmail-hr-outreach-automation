@@ -56,7 +56,14 @@ const CONFIG = {
   RESUME_PT_FILE_ID: 'SEU_ID_CURRICULO_PT',
   RESUME_EN_FILE_ID: 'SEU_ID_CURRICULO_EN',
   SENDER_EMAIL: 'seu-email@gmail.com',
-  SENDER_NAME
+  SENDER_NAME: 'Seu Nome',
+  DAILY_LIMIT: 15,
+  SEND_ENABLED: false,
+  SUBJECT: 'Apresentação profissional | Dados, BI, Processos e Operações',
+  FOLLOWUP_BUSINESS_DAYS: 5,
+  TIME_TRIGGER_HOUR: 9
+};
+```
 
 # Automação de Candidatura Ativa & Follow-up (Google Sheets + Gmail)
 
