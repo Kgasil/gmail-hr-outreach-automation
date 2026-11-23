@@ -1,7 +1,3 @@
-🌐 **Language / Idioma:** **English** | [🇧🇷 Português](#português)
-
----
-
 # 📧 Automated Job Outreach & Follow-up (Google Sheets + Gmail)
 
 Automated system built with **Google Apps Script** to manage and send individual job applications and follow-ups directly through the Google Workspace ecosystem (Google Sheets, Gmail, and Google Drive).
