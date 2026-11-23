@@ -1,10 +1,9 @@
 # Automação de Candidatura Ativa & Follow-up (Google Sheets + Gmail)
 
-> 🌐 **Idioma / Language:** [Português](#versao-em-portugues) | [English](#english-version)
+> 🌐 **Idioma / Language:** [Português](#-versão-em-português) | [English](#-english-version)
 
 ---
 
-<a id="versao-em-portugues"></a>
 ## 🇧🇷 Versão em Português
 
 Sistema automatizado desenvolvido em **Google Apps Script** para gerenciar e executar envios individuais de currículos e acompanhamentos (follow-ups) diretamente pelo ecossistema Google Workspace (Sheets, Gmail e Drive).
