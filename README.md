@@ -60,3 +60,8 @@ const CONFIG = {
   FOLLOWUP_BUSINESS_DAYS: 5,
   TIME_TRIGGER_HOUR: 9
 };
+```
+
+### 3. Testes e segurança
+
+Execute `setupOutreach`, depois `sendTestEmail` e `sendTestEmailEnglish` apenas para sua própria conta. Mantenha `SEND_ENABLED: false` até validar destinatários e permissões. `DAILY_LIMIT` limita novos envios; follow-ups são adicionais. Use `removeDailyTrigger` para interromper o agendamento. Não publique contatos, currículos ou IDs reais.
