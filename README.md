@@ -1,5 +1,10 @@
 # Automação de Candidatura Ativa & Follow-up (Google Sheets + Gmail)
 
+<!-- kg-personal-portfolio-v1 -->
+
+[KG Professional Portfolio 1.0 — Portfólio pessoal / Personal portfolio](https://kgasil.github.io/portfolio/)
+
+
 > 🌐 **Idioma / Language:** **Português** | [English](https://github.com/Kgasil/Active-Job-Application-Follow-up-Automation/blob/main/README.md)
 
 ---
